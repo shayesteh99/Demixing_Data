@@ -1,1 +1,36 @@
-* [1kp-concat-fig2.tre](1kp-concat-fig2.tre) is the `FNA2AA.trim50genes50sites.no3rd.partitioned.gamma.final.tre` tree from <https://doi.org/10.1073/pnas.1323926111>
+| Tree                                       | Group  | Publication                             | n   | Comments                                                               |
+|--------------------------------------------|--------|-----------------------------------------|-----|------------------------------------------------------------------------|
+| [1kp-concat-fig2.tre](1kp-concat-fig2.tre) | plants | https://doi.org/10.1073/pnas.1323926111 | 103 | The `FNA2AA.trim50genes50sites.no3rd.partitioned.gamma.final.tre` tree |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
+|                                            |        |                                         |     |                                                                        |
