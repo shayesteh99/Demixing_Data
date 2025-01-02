@@ -7,7 +7,7 @@
 |                                            |   bees |                                         |     |                                                                        |
 |                                            |   insects (Misof) |                                         |     |                                                                        |
 |                                            | Fungus |                                         |     |                                                                        |
-|                                            | Fish |                                         |     |                                                                        |
+| [fish_hughes_1105examl.tre](fish_hughes_1105examl.tre) | Fish |    <https://doi.org/10.1073/pnas.1719358115>                                     |    305 | `1105_protein_ExaBayes.tre` from <https://datadryad.org/stash/dataset/doi:10.5061/dryad.5b85783>                                                                      |
 |                                            | Birds (Jarvis) |                                         |     |                                                                        |
 |                                            | Birds (Stiller) |                                         |     |                                                                        |
 |                                            | Prokaryotes (WoL) |                                         |     |                                                                        |
